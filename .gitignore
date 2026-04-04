@@ -69,3 +69,5 @@ macos/Flutter/ephemeral/
 macos/build/
 
 # envoy.yaml
+
+CLAUDE.md
